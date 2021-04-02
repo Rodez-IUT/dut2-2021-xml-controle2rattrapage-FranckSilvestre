@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<musee>
+    <nom>Musée Saint-Raymond</nom>
+    <sous-titre>Musée d'Archéologie de Toulouse</sous-titre>
+    <resume>
+        Le bâtiment est un ancien collège...
+    </resume>
+    <metadata>
+        <date-inauguration>2021-03-22T12:00:00</date-inauguration>
+    </metadata>
+</musee>

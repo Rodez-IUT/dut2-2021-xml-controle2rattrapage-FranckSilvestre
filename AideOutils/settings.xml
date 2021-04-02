@@ -1,0 +1,15 @@
+<!-- UNIQUEMENT POUR LES ETUDIANTS QUI TRAVAILLENT SUR LES MACHINES DE l'IUT
+    Ce fichier de configuration Maven est à copier dans le dossier  :
+    C:\Utilisateurs\<votre indentifiant windows>\.m2
+-->
+<settings>
+  <proxies>
+   <proxy>
+      <id>iut-proxy</id>
+      <active>true</active>
+      <protocol>http</protocol>
+      <host>cache.iut-rodez.fr</host>
+      <port>8080</port>
+    </proxy>
+  </proxies>
+</settings>

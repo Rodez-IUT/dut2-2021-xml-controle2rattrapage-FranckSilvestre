@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<musee>
+    <nom>Musée Saint-Raymond</nom>
+    <sous-titre>Musée d'Archéologie de Toulouse</sous-titre>
+    <resume>
+        Le bâtiment est un ancien collège universitaire construit en 1523 en briques. Le musée possède une collection de sculptures romaines qui n'a rien à envier à celle du Louvre. Il présente une importante collection archéologique.
+        Près de 1000 pièces évoquent le cadre de vie des Celtes et des Romains dans la région toulousaine. Une occasion unique de redécouvrir les origines et l'organisation de Tolosa.
+        L’essentiel des collections a été découvert lors de fouilles anciennes ou plus récentes.
+    </resume>
+    <dates-fermeture>
+        <date>01 01</date>
+        <date>01 05</date>
+        <date>25 12</date>
+    </dates-fermeture>
+    <jours-ouverture>
+        <jour nom="lundi"/>
+        <jour nom="mardi"/>
+        <jour nom="jeudi"/>
+        <jour nom="vendredi"/>
+    </jours-ouverture>
+</musee>
